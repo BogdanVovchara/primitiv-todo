@@ -1,0 +1,6 @@
+li{
+	list-style: none;
+}
+li span:nth-child(3){
+	font-size: 0.8rem;
+}
